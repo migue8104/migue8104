@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi i'm Miguel Angel 
 
-<!--
-**migue8104/migue8104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- systems engineering student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,python,java)](https://skillicons.dev)
+
+### Technologies and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,angular,spring)](https://skillicons.dev)
+
+### IDEs and Code Editors
+[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode)](https://skillicons.dev)
+
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
